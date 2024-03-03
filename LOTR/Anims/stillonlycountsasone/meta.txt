@@ -14,10 +14,10 @@ Active cooldown: 7
 Bubble slots: 1
 
 Slot: 0
-X: 0
+X: 4
 Y: 50
-Text:  That still only counts as one 
-AlignH: Left
-AlignV: Bottom
+Text: That still only counts as one
+AlignH: Center
+AlignV: Center
 StartFrame: 11
 EndFrame: 37
