@@ -1,3 +1,5 @@
+Moved to https://github.com/AbeNaws/FlipperZeroAssetPacks
+
 LOTR Animation Pack for Flipper Zero
 
 ![Alt text](https://github.com/AbeNaws/FlipperZero-LOTRAnimationPack/blob/main/Assets/No.gif)
